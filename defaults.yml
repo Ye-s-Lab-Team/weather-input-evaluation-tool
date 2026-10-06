@@ -1,0 +1,7 @@
+# Preliminary configuration. Values requiring scientific validation remain unset.
+standardization:
+  target_timezone: null
+  target_timestep_minutes: null
+scoring:
+  weights: {}
+  thresholds: {}
