@@ -1,0 +1,4 @@
+# Synthetic Anomaly Datasets
+
+Placeholder for synthetic datasets containing controlled anomalies such as missing periods,
+stuck sensors, unrealistic humidity, drift, and other benchmark cases.
